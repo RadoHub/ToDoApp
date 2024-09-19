@@ -1,0 +1,17 @@
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Infrastructure.deps.json
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Infrastructure.dll
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Infrastructure.pdb
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Application.dll
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Domain.dll
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Application.pdb
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\bin\Debug\net8.0\ToDoApp.Domain.pdb
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp..9249A7BE.Up2Date
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.dll
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\refint\ToDoApp.Infrastructure.dll
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ToDoApp.Infrastructure.pdb
+C:\Users\Rado\Desktop\TODO\src\ToDoApp.Infrastructure\obj\Debug\net8.0\ref\ToDoApp.Infrastructure.dll
